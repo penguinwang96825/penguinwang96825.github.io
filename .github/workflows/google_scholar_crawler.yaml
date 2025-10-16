@@ -1,4 +1,4 @@
-name: Get Citation Data
+name: get-citation-data
 
 on: 
  push:
