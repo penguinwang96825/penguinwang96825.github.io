@@ -37,7 +37,7 @@ My research interest includes:
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2025</div><img src='images/tacl_2025_adversarial.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2025</div><img src='images/publications/tacl_2025_adversarial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yang Wang`, Chenghao Xiao, Yizhi Li, Stuart E. Middleton, Noura Al Moubayed, Chenghua Lin. Adversarial Defence without Adversarial Defence: Enhancing Language Model Robustness via Instance-level Principal Component Removal. *TACL*. 2025
@@ -46,7 +46,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2025</div><img src='images/tacl_2025_inversion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2025</div><img src='images/publications/tacl_2025_inversion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Hanhua Hong, Chenghao Xiao, `Yang Wang`, Yiqi Liu, Wenge Rong, Chenghua Lin. Beyond One-Size-Fits-All: Inversion Learning for Highly Effective NLG Evaluation Prompts. *TACL*. 2025 
@@ -55,7 +55,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/emnlp_2025_drivelology.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/publications/emnlp_2025_drivelology.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yang Wang`, Chenghao Xiao, Chia-Yi Hsiao, Zi Yan Chang, Chi-Li Chen, Tyler Loakman, Chenghua Lin. Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth. *EMNLP*. 2025
@@ -64,7 +64,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/coling_2025_agent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/publications/coling_2025_agent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Tomas Goldsack, `Yang Wang`, Chenghua Lin, Chung-Chi Chen. From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls. *COLING*. 2025
