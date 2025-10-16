@@ -29,6 +29,11 @@ My research interest includes:
 - Adversarial Attack and Defence
 - Contrastive Learning
 
+Work in progress:
+- Knowledge Boundary and Reasoning Boundary
+- Psychological LLMs
+- Omni-modal Embedding
+
 
 # 🎓 Educations 
 
@@ -38,7 +43,7 @@ My research interest includes:
 
 # 📝 Publications 
 
----
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2025</div><img src='images/publications/tacl_2025_adversarial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
