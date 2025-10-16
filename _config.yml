@@ -25,7 +25,7 @@ author:
   avatar           : "images/avatar.png"
   bio              : "University of Manchester"
   location         : "Manchester, UK"
-  employer         : "Automated Analytics"
+  employer         : # "Automated Analytics"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EPrTek0AAAAJ"
   email            : "yang.wang-27@postgrad.manchester.ac.uk"
