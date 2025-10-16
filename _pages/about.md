@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my MSc in Computer Science with Speech and Language Processing from the University of Sheffield, where I was advised by Chenghua Lin (now at the University of Manchester). I earned my BSc in Applied Mathematics from National Chung Hsing University, Taiwan. I have published several papers, available on <a href='https://scholar.google.com/citations?user=EPrTek0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I received my MSc in Computer Science with Speech and Language Processing from the University of Sheffield, where I was advised by Chenghua Lin (now at the University of Manchester). I earned my BSc in Applied Mathematics from National Chung Hsing University, Taiwan. I have published several papers, available on <a href='https://scholar.google.com/citations?user=EPrTek0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> with <span id="total_cit"></span> citations.
 
 My research interest includes: 
 - Natural Language Processing
@@ -90,7 +90,7 @@ My research interest includes:
 -	`Yang Wang`, Qibin Liang, Chenghao Xiao, Yizhi Li, Noura Al Moubayed, Chenghua Lin. Audio Contrastive-based Fine-tuning: Decoupling Representation Learning and Classification. *ICASSP* (Under Review). 2025
 [[PDF]](https://arxiv.org/pdf/2309.11895) [[Code]](https://github.com/ExtraOrdinaryLab/confit)
 
--	`Yang Wang`, Chenghao Xiao, Yiqi Liu, Chenghua Lin. The Achilles' Heel of Angular Margins: \\A Chebyshev Polynomial Fix for Speaker Verification. *ICASSP* (Under Review). 2025
+-	`Yang Wang`, Chenghao Xiao, Yiqi Liu, Chenghua Lin. The Achilles' Heel of Angular Margins: A Chebyshev Polynomial Fix for Speaker Verification. *ICASSP* (Under Review). 2025
 [[Code]](https://github.com/ExtraOrdinaryLab/vibe)
 
 
