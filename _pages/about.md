@@ -75,9 +75,6 @@ My research interest includes:
 </div>
 </div>
 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/publications/coling_2025_adversarial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
