@@ -30,7 +30,7 @@ My research interest includes:
 
 # 🎓 Educations 
 
-- *2020.09 - 2021.09*, <a href="https://sheffield.ac.uk/"><img class="svg" src="/images/UoS_logo.jpg" width="23pt"></a> Department of Computer Science, University of Sheffield, UK. 
+- *2020.09 - 2021.09*, <a href="https://sheffield.ac.uk/"><img class="svg" src="/images/UoS_logo.png" width="23pt"></a> Department of Computer Science, University of Sheffield, UK. 
 - *2014.09 - 2018.06*, <a href="https://www.nchu.edu.tw"><img class="svg" src="/images/NCHU_logo.png" width="20pt"></a> Department of Applied Mathematics, National Chung Hsing University, Taiwan. 
  
 
