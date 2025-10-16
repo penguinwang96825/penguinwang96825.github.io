@@ -15,5 +15,8 @@ main:
   - title: "Conferences"
     url: "/#-conferences"
 
+  - title: "Work Experience"
+    url: "/#-work-experience"
+
   - title: "Internships"
     url: "/#-internships"
