@@ -17,22 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I received my MSc in Computer Science with Speech and Language Processing from the University of Sheffield, where I was advised by Chenghua Lin (now at the University of Manchester). I earned my BSc in Applied Mathematics from National Chung Hsing University, Taiwan. I have published several papers, available on <a href='https://scholar.google.com/citations?user=EPrTek0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+- Natural Language Processing
+- Audio and Speech Processing
+- Multi-modality Learning
+- Machine Learning
+- Adversarial Attack and Defence
+- Contrastive Learning
 
 
 # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+- *2020.09 - 2021.09*, <a href="https://sheffield.ac.uk/"><img class="svg" src="/images/UoS_logo.jpg" width="23pt"></a> Department of Computer Science, University of Sheffield, UK. 
+- *2014.09 - 2018.06*, <a href="https://www.nchu.edu.tw"><img class="svg" src="/images/NCHU_logo.png" width="20pt"></a> Department of Applied Mathematics, National Chung Hsing University, Taiwan. 
  
 
 # 📝 Publications 
