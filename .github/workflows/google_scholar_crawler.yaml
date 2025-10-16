@@ -1,6 +1,7 @@
 name: Get Citation Data
 
 on: 
+ push:
  page_build: 
  schedule:
   - cron:  '0 0 * * *'
