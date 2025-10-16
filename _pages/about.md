@@ -98,7 +98,7 @@ Work in progress:
 
 
 
-# 🏅 Honors and Awards
+# 🏅 Honours and Awards
 
 - *2025.09*, Dean's Doctoral Scholarship Award, University of Manchester.
 - *2025.04*, The NVIDIA Academic Grant Program.
@@ -107,7 +107,7 @@ Work in progress:
 - *2023.04*, Innovate UK Knowledge Transfer Partnership.
 
 
-# 💬 Conferences
+# 📜 Conferences
 
 - *2025.11*, The 2025 Conference on Empirical Methods in Natural Language Processing, Suzhou, China, Oral.
 - *2025.01*, The 31st International Conference on Computational Linguistics, Abu Dhabi, UAE, Oral.
@@ -120,6 +120,10 @@ Work in progress:
 - *2023.04 - 2024.04*, Machine Learning and Natural Language Processing Engineer (KTP Associate), University of Sheffield, Sheffield, UK
 - *2022.10 - 2023.04*, Data Scientist, Automated Analytics, Doncaster, UK
 - *2018.12 - 2019.08*, Software Quality Assurance Assistant Engineer, KKStream Limited, Taipei, Taiwan
+
+# Teaching Experience
+
+- *2025.09 - Present*, Graduate Teaching Assistant for COMP64501 Topics in Machine Learning.
 
 # 🏭 Internships
 
