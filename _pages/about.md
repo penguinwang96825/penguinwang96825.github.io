@@ -121,7 +121,7 @@ Work in progress:
 - *2022.10 - 2023.04*, Data Scientist, Automated Analytics, Doncaster, UK
 - *2018.12 - 2019.08*, Software Quality Assurance Assistant Engineer, KKStream Limited, Taipei, Taiwan
 
-# Teaching Experience
+# 🔬 Teaching Experience
 
 - *2025.09 - Present*, Graduate Teaching Assistant for COMP64501 Topics in Machine Learning.
 
