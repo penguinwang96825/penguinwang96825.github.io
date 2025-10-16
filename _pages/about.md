@@ -95,11 +95,11 @@ My research interest includes:
 
 # 🏅 Honors and Awards
 
-- *2025.09* Dean's Doctoral Scholarship Award, University of Manchester.
-- *2025.04* The NVIDIA Academic Grant Program
-- *2024.12* Innovation of the Year at the 26th Doncaster Business Awards. [[News]](https://automatedanalytics.co/automated-analytics-wins-innovation-of-the-year-award)
-- *2024.10* Turing Innovation Catalyst Manchester.
-- *2023.04* Innovate UK Knowledge Transfer Partnership.
+- *2025.09*, Dean's Doctoral Scholarship Award, University of Manchester.
+- *2025.04*, The NVIDIA Academic Grant Program
+- *2024.12*, Innovation of the Year at the 26th Doncaster Business Awards. [[News]](https://automatedanalytics.co/automated-analytics-wins-innovation-of-the-year-award)
+- *2024.10*, Turing Innovation Catalyst Manchester.
+- *2023.04*, Innovate UK Knowledge Transfer Partnership.
 
 
 # 💬 Conferences
