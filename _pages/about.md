@@ -29,6 +29,7 @@ My research interest includes:
 
 
 # 🎓 Educations 
+
 - *2020.09 - 2021.09*, <a href="https://sheffield.ac.uk/"><img class="svg" src="/images/UoS_logo.jpg" width="23pt"></a> Department of Computer Science, University of Sheffield, UK. 
 - *2014.09 - 2018.06*, <a href="https://www.nchu.edu.tw"><img class="svg" src="/images/NCHU_logo.png" width="20pt"></a> Department of Applied Mathematics, National Chung Hsing University, Taiwan. 
  
@@ -96,9 +97,9 @@ My research interest includes:
 
 # 🏅 Honors and Awards
 
-- *2024.12* Innovation of the Year at the 26th Doncaster Business Awards. [[News]](https://automatedanalytics.co/automated-analytics-wins-innovation-of-the-year-award)
 - *2025.09* Dean's Doctoral Scholarship Award, University of Manchester.
 - *2025.04* The NVIDIA Academic Grant Program
+- *2024.12* Innovation of the Year at the 26th Doncaster Business Awards. [[News]](https://automatedanalytics.co/automated-analytics-wins-innovation-of-the-year-award)
 - *2024.10* Turing Innovation Catalyst Manchester.
 - *2023.04* Innovate UK Knowledge Transfer Partnership.
 
