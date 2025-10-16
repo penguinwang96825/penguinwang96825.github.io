@@ -32,8 +32,8 @@ My research interest includes:
 
 # 🎓 Educations 
 
-- *2020.09 - 2021.09*, <a href="https://sheffield.ac.uk/"><img class="svg" src="/images/UoS_logo.png" width="23pt"></a> Department of Computer Science, University of Sheffield, UK. 
-- *2014.09 - 2018.06*, <a href="https://www.nchu.edu.tw"><img class="svg" src="/images/NCHU_logo.png" width="20pt"></a> Department of Applied Mathematics, National Chung Hsing University, Taiwan. 
+- *2020.09 - 2021.09*, <a href="https://sheffield.ac.uk/"><img class="svg" src="/images/UoS_logo.png" width="23pt"></a> MSc in Computer Science with Speech and Language Processing, University of Sheffield, UK. 
+- *2014.09 - 2018.06*, <a href="https://www.nchu.edu.tw"><img class="svg" src="/images/NCHU_logo.png" width="20pt"></a> BSc in Applied Mathematics, National Chung Hsing University, Taiwan. 
  
 
 # 📝 Publications 
@@ -109,7 +109,15 @@ My research interest includes:
 - *2024.11*, Innovate UK Knowledge Transfer Partnership Associate Conference, Visit.
 
 
+# 💼 Work Experience
+
+- *2025.04 - Present*, Machine Learning and Natural Language Processing Researcher, Automated Analytics, Doncaster, UK
+- *2023.04 - 2024.04*, Machine Learning and Natural Language Processing Engineer (KTP Associate), University of Sheffield, Sheffield, UK
+- *2022.10 - 2023.04*, Data Scientist, Automated Analytics, Doncaster, UK
+- *2018.12 - 2019.08*, Software Quality Assurance Assistant Engineer, KKStream Limited, Taipei, Taiwan
+
 # 🏭 Internships
 
-- *2021.12 - 2022.10*, Automated Analytics, Doncaster, UK.
-- *2021.05 - 2022.05*, The VoiceBase Centre, Sheffield, UK.
+- *2021.12 - 2022.10*, Research Intern, Automated Analytics, Doncaster, UK.
+- *2021.05 - 2022.05*, Research Intern, The VoiceBase Centre, Sheffield, UK.
+- *2020.07 - 2020.08*, Research Intern, Cinnamon AI, Taipei, Taiwan.
