@@ -90,7 +90,7 @@ Work in progress:
 </div>
 
 
--	`Yang Wang`, Qibin Liang, Chenghao Xiao, Yizhi Li, Noura Al Moubayed, Chenghua Lin. Audio Contrastive-based Fine-tuning: Decoupling Representation Learning and Classification. *ICASSP* (Under Review). 2025
+-	`Yang Wang`, Qibin Liang, Chenghao Xiao, Yizhi Li, Noura Al Moubayed, Chenghua Lin. Audio Contrastive-based Fine-tuning: Decoupling Representation Learning and Classification. *ICASSP* (Under Review). 2025 <br />
 [[PDF]](https://arxiv.org/pdf/2309.11895) [[Code]](https://github.com/ExtraOrdinaryLab/confit)
 
 -	`Yang Wang`, Chenghao Xiao, Yiqi Liu, Chenghua Lin. The Achilles' Heel of Angular Margins: A Chebyshev Polynomial Fix for Speaker Verification. *ICASSP* (Under Review). 2025 <br />
