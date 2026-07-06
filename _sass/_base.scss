@@ -11,6 +11,9 @@
     margin: 0;
     padding: 0;
     padding-bottom: 0em;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     color: $text-color;
     font-family: $global-font-family;
     line-height: 1.5;
@@ -19,6 +22,10 @@
       /* when primary navigation is visible, the content in the background won't scroll */
       overflow: hidden;
     }
+  }
+
+  #main {
+    flex: 1 0 auto;
   }
   
   h1, h2, h3, h4, h5, h6 {
