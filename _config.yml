@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EPrTek0AAAAJ"
   email            : "yangwang4work@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Yang-Wang-715"
+  researchgate     : # "https://www.researchgate.net/profile/Yang-Wang-715"
   uri              : 
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "wangyang825"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0000-0837-657X"
+  orcid            : # "https://orcid.org/0009-0000-0837-657X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
