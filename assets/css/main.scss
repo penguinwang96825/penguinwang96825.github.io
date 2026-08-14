@@ -455,6 +455,16 @@
     border-radius: 2px;
 }
 
+.theme-dark ::-moz-selection {
+    color: #000;
+    background: #fff;
+}
+
+.theme-dark ::selection {
+    color: #000;
+    background: #fff;
+}
+
 .author__urls .fa-map-marker,
 .author__urls .fa-github,
 .author__urls .fa-github-alt,
