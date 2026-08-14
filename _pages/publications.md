@@ -76,6 +76,9 @@ redirect_from:
 - `Yang Wang`, Qibin Liang, Chenghao Xiao, Yizhi Li, Noura Al Moubayed, Chenghua Lin. Audio Contrastive-based Fine-tuning: Decoupling Representation Learning and Classification. 2023 <br />
 [[PDF]](https://arxiv.org/pdf/2309.11895) [[Code]](https://github.com/ExtraOrdinaryLab/confit)
 
+- `Yang Wang`, Yanan Ma, Yiqi Liu, Zi Yan Chang, Chi-Li Chen, Chia-Yi Hsiao, Tyler Loakman, Aline Villavicencio, Chenghao Xiao, Chenghua Lin. Reading Between the Frames: Interpreting Implicit and Non-literal Meaning in Social Media Videos. 2026 <br />
+[[PDF]](https://arxiv.org/abs/2608.04939) [[Code]](https://github.com/extraordinarylab/drivel-hub-plus) [[HuggingFace]](https://huggingface.co/datasets/extraordinarylab/drivel-hub-plus) [[Website]](https://extraordinarylab.github.io/drivel-hub-plus)
+
 # 📜 Conferences
 
 - *2026.05*, IEEE International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain, Poster.
