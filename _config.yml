@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Yang Wang"
 description              : "This is the academic homepage of Yang Wang."
+url                      : "https://wangyang.com.tw"
+baseurl                  : ""
 repository               : "penguinwang96825/blog"
 google_scholar_stats_use_cdn : false
 
